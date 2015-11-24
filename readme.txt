@@ -1,5 +1,7 @@
-该CAS项目仅仅只是起到演示的作用，项目中只有class文件，并没有源代码
-使用的tomcat版本：tomcat 6.0.43
+<b>该CAS项目仅仅只是起到演示的作用，项目中只有class文件，并没有源代码</b>
+<b>使用的tomcat版本：tomcat 6.0.43</b>
+<b>使用的jdk版本：1.6.0</b>
+<b>使用的MyEclipse版本：MyEclipse 10</b>
 使用方法：
 1.首先需要修改hosts配置文件：添加上一下的两行信息：
 127.0.0.1	www.bbs.com
